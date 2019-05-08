@@ -1,0 +1,52 @@
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\bin\Debug\Encyclopedia 2.0.exe.config
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\bin\Debug\Encyclopedia 2.0.exe
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\bin\Debug\Encyclopedia 2.0.pdb
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\bin\Debug\MetroFramework.Design.dll
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\bin\Debug\MetroFramework.dll
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\obj\Debug\Encyclopedia 2.0.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.Form1.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.Properties.Resources.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\obj\Debug\Encyclopedia 2.0.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\obj\Debug\Encyclopedia 2.0.exe
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\obj\Debug\Encyclopedia 2.0.pdb
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.TextEditor.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.TextViewer.resources
+C:\elev\12a\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\bin\Debug\Encyclopedia.exe.config
+C:\elev\12a\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\bin\Debug\Encyclopedia.exe
+C:\elev\12a\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\bin\Debug\Encyclopedia.pdb
+C:\elev\12a\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia 2.0.csprojResolveAssemblyReference.cache
+C:\elev\12a\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.Form1.resources
+C:\elev\12a\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.Paint.resources
+C:\elev\12a\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.Properties.Resources.resources
+C:\elev\12a\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.TextEditor.resources
+C:\elev\12a\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.TextViewer.resources
+C:\elev\12a\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia 2.0.csproj.GenerateResource.Cache
+C:\elev\12a\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia.exe
+C:\elev\12a\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia.pdb
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\bin\Debug\Encyclopedia.exe.config
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\bin\Debug\Encyclopedia.exe
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\bin\Debug\Encyclopedia.pdb
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia 2.0.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.Form1.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.Options.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.Paint.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.Properties.Resources.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.TextEditor.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.TextViewer.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia 2.0.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia.exe
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia.pdb
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working home\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\bin\Debug\Encyclopedia.exe.config
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working home\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\bin\Debug\Encyclopedia.exe
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working home\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\bin\Debug\Encyclopedia.pdb
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working home\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia 2.0.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working home\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.Form1.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working home\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.Options.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working home\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.Paint.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working home\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.Properties.Resources.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working home\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.TextEditor.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working home\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia_2._0.TextViewer.resources
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working home\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia 2.0.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working home\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia.exe
+D:\Projects\Visual Studio\C#\Encyclopedia 2.0 - Data base working home\Encyclopedia 2.0 - Data base\Encyclopedia 2.0\obj\Debug\Encyclopedia.pdb

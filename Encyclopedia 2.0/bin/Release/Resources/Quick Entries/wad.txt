@@ -1,0 +1,54 @@
+05-02-17
+Ce imi spune delta despre graficul ecuatiei de gradul 2?
+Intr-o ecuatie de gradul 2 de forma ax^2 + bx + c,/nnn    /nnn   - a imi spune daca parabola e "vesela sau trista" pt ca semnul ei schimba im mod direct semnul ecuatiei, x^2 mare si mereu pozitiv.   /nnn  /nnn   - delta imi spune daca parabola intersecteaza axa OX, pentru ca daca delta > 0 rezulta ca sunt 2 solutii, deci 2 functe in care f(x) = 0 deci parabola trece fix prin OX, fiind 0 pe verticala. /nnn     Daca delta < 0 rezulta ca nu exista solutii reale <=> parabola nu trece prin OX. Deci parabola e mereu sub OX, in jos./nnn     Iar daca delta = 0, rezulta ca intersecteaza intr-un singur punct axa OX, deci poate fi doar varful parabolei.
+05-02-17
+Randament
+Randamentul planului inclinat:/nnnro = Lu/Lc = /nnn|Lg| / ( |Lg| + |LFf| )= /nnnmgh / ( mgh(1 + µCtg(a) ) = /nnn1 / ( 1 + µCtg(a) ) =/nnnsin(a) / ( sin(a) + µCtg(a) )/nnn/nnn
+05-02-17
+Tensiunea intr-un fir ideal
+Tensiunea intr-un fir ideal este egala peste tot in fir indiferent de corpurile intre care firul e legat, indiferent de unghiul dintre corupuri, indiferent daca firul e trecut printr-un scripete, etc...
+07-02-17
+Cµ - Caldura Molara
+Caldura molara Cµ = Q / ( niu * ?T) e specifica gazelor si depinde de ripul de transformare./nnn/nnnPentru izocora (V = ct) => Cµ = Cv = i/2 R, i = {3,5,6} {mono,bi,poli}/nnnPentru izobara (P = ct) => Cµ = Cp = Cv + R/nnnPentru politrope (transformare descrisa de ec. PV^n = ct, n = exponent politrop) /nnn => Cµ = Cn = Cv + R / (1-n)/nnn/nnnCalcularea lui n, e matematica normala, ex:/nnnV = aT^2 => (vreau sa aduc in forma a*P*V^n) /nnnV = a(PV/niuR)^2 => V = ct*V^2 * P^2  => P^2 * V = ct | ^1/2/nnn=> P*V^1/2 = ct => n = 1/2
+07-02-17
+Progresii matematice
+Progresie aritmetica:/nnnak = a1 + (k-1)r/nnn/nnnSn = (a1 + an)*n/2/nnn/nnnProgresie geometrica:/nnnbk = bk-1 * q = b1 * q^(k-1)/nnn/nnnS = b1(q^n - 1) / (q - 1) (Primul termen * ratia la cate sunt - 1 supra ratia - 1)
+10-02-17
+<title>
+Variatie relativa:/nnn/nnn(Pf - Pi)/Pi
+11-02-17
+Fizica tricks
+v0/2           = d/(t1 + t2)/nnn   +                  +/nnnv1/2           = d/2t2/nnn   =                  =/nnn(v0 + v1)/2 = d/2t1/nnn/nnnPentru ca primul cu al doilea = cu al treilea in stanga, rezulta ca si primul cu al doilea = cu al treilea in dreapta, si de aici scot t2(stiind t1, d si v-urile)/nnn
+Entry 8
+11-02-17 <end>
+<title> <end>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Tahoma;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red138\green138\blue138;}
+\viewkind4\uc1\pard\cf1\f0\fs28 da\fs14 dada\fs28 dad\f1\fs17\par
+}
+ <end>
+
+Entry 11
+12-02-17 <end>
+<title> <end>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Tahoma;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red138\green138\blue138;}
+\viewkind4\uc1\pard\cf1\f0\fs28 da\par
+sssa\fs14 assa\fs28 asa\par
+\fs14 asas\fs28 sasa\fs14 sasa\fs28 aas\f1\fs17\par
+}
+ <end>
+
+Entry 15
+14-02-17 <end>
+<title> <end>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Tahoma;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red138\green138\blue138;}
+\viewkind4\uc1\pard\cf1\f0\fs28 e^x <= x + 1 , x = (0,inf)\f1\fs17\par
+}
+ <end>
+
+Entry 16
+Energia interna creste => Temperatura creste (22/02)
+
+

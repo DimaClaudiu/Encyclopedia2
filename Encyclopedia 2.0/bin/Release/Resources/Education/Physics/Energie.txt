@@ -1,0 +1,3 @@
+Entry 1: 31.12.2016 :  
+
+Fractiune din energia initiala pierduta = deltaEc/Eci

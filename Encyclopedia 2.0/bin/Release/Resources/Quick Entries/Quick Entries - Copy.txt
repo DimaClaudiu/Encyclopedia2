@@ -1,0 +1,27 @@
+20-02-17
+Ce imi spune delta despre graficul ecuatiei de gradul 2?
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil Tahoma;}{\f1\fnil\fcharset0 Tahoma;}{\f2\fnil\fcharset161 Tahoma;}{\f3\fnil\fcharset0 Microsoft Sans Serif;}}{\colortbl ;\red138\green138\blue138;}\viewkind4\uc1\pard\cf1\f0\fs28 Intr-o ecuatie de gradul 2 de forma ax^2 + bx + c,\par    \par\f1      \f0 - a imi spune daca parabola e "vesela sau trista" pt ca semnul ei schimba im mod direct semnul ecuatiei, x^2 mare si mereu pozitiv.  \par\par\f1   \f0   - \f2\'c4\f0  imi spune daca parabola intersecteaza axa OX, pentru ca \par\f1      D\f0 aca \f1  \f2\'c4\f0  > 0 rezulta ca sunt 2 solutii, deci 2 functe in care f(x) = 0 deci parabola trece fix prin OX, fiind 0 pe verticala.\par     Daca \f2\'c4\f0  < 0 rezulta ca nu exista solutii reale <=> parabola nu trece prin OX. Deci parabola e mereu sub OX, in jos.\par     Iar daca \f2\'c4\f0  = 0, rezulta ca intersecteaza intr-un singur punct axa OX, deci poate fi doar varful parabolei.\f3\fs17\par}
+20-02-17
+Randament
+Randamentul planului inclinat:/nnnro = Lu/Lc = /nnn|Lg| / ( |Lg| + |LFf| )= /nnnmgh / ( mgh(1 + µCtg(a) ) = /nnn1 / ( 1 + µCtg(a) ) =/nnnsin(a) / ( sin(a) + µCtg(a) )
+20-02-17
+Cµ - Caldura Molara
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil Tahoma;}{\f1\fnil\fcharset0 Tahoma;}{\f2\fnil\fcharset161 Tahoma;}{\f3\fnil\fcharset0 Microsoft Sans Serif;}}{\colortbl ;\red138\green138\blue138;}\viewkind4\uc1\pard\cf1\f0\fs28 Caldura molara C\f1\'b5 = Q / ( niu * \f2\'c4\f1 T) e specifica gazelor si depinde de tipul de transformare.\par\parPentru izocora (V = ct) => C\'b5 = Cv = i/2 R, i = \{3,5,6\} \{mono,bi,poli\}\par\parPentru izobara (P = ct) => C\'b5 = Cp = Cv + R\par\parPentru politrope (transformare descrisa de ec. PV^n = ct, n = exponent politrop)\par => C\'b5 = Cn = Cv + R / (1-n)\par\parCalcularea lui n, e matematica normala, ex:\parV = aT^2 => (vreau sa aduc in forma a*P*V^n) \parV = a(PV/niuR)^2 => V = ct*V^2 * P^2  => P^2 * V = ct | ^1/2\par=> P*V^1/2 = ct => n = 1/2\f3\fs17\par}
+20-02-17
+Progresii matematice
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil Tahoma;}{\f1\fnil\fcharset0 Tahoma;}{\f2\fnil\fcharset0 Microsoft Sans Serif;}}{\colortbl ;\red138\green138\blue138;}\viewkind4\uc1\pard\cf1\f0\fs28 Progresie aritmetica:/nnnak = a1 + (k-1)r\parSn = (a\f1\fs14 1\f0\fs28  + a\f1\fs14 n\f0\fs28 )*n/2\parProgresie geometrica:\parb\f1\fs14 k\f0\fs28  = b\f1\fs14 k\f0\fs28 -1 * q = b1 * q^(k-1)\parS = b\f1\fs14 1\f0\fs28 (q^n - 1) / (q - 1) (Primul termen * ratia la cate sunt - 1 supra ratia - 1)\f2\fs17\par}
+20-02-17
+Var relativa, cu cat la %
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Tahoma;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}{\colortbl ;\red138\green138\blue138;}\viewkind4\uc1\pard\cf1\f0\fs28 Variatie relativa:\par\par(Pf - Pi)/Pi (final - initial/ initial)\par\parMai merge si cand iti cere: Cu cat la suta s-a schombat ceva\f1\fs17\par}
+20-02-17
+Fizica tricks
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil Tahoma;}{\f1\fnil\fcharset0 Tahoma;}{\f2\fnil\fcharset0 Microsoft Sans Serif;}}{\colortbl ;\red138\green138\blue138;}\viewkind4\uc1\pard\cf1\f0\fs28 v\f1\fs14 0\f0\fs28 /2           = d/(t\f1\fs14 1\f0\fs28  + t\f1\fs14 2\f0\fs28 )\par   +                  +\par1/2           = d/2t\f1\fs14 2\f0\fs28\par   =          =\par(v\f1\fs14 0\f0\fs28  + v\f1\fs14 1\f0\fs28 )/2 = d/2t\f1\fs14 1\f0\fs28\par\parPentru ca primul cu al doilea = cu al treilea in stanga, rezulta ca si primul cu al doilea = cu al treilea in dreapta, si de aici scot t\f1\fs14 2\f0\fs28 (stiind t\f1\fs14 1\f0\fs28 , d si v-urile)\f2\fs17\par}
+20-02-17
+
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil Tahoma;}{\f1\fnil\fcharset0 Tahoma;}{\f2\fnil\fcharset0 Microsoft Sans Serif;}}{\colortbl ;\red138\green138\blue138;}\viewkind4\uc1\pard\cf1\f0\fs28 e^x <= x + 1 , x = (0,inf)\par\par\f1 x <= ln(x + 1) \f2\fs17\par}
+20-02-17
+Concentratia volumetrica
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil Tahoma;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}{\colortbl ;\red138\green138\blue138;}\viewkind4\uc1\pard\cf1\f0\fs28 n = N/V = niuNa/V\f1\fs17\par}
+20-02-17
+da
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Tahoma;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}{\colortbl ;\red138\green138\blue138;}\viewkind4\uc1\pard\cf1\f0\fs28 da\f1\fs17\par}

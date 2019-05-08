@@ -1,0 +1,3 @@
+Encyclopedia|#092213|#F6DDEC|239582860
+explorer|Gold|#0028FF|46913450
+devenv|#33305B|#CCCFA4|8765723

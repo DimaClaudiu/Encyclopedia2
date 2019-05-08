@@ -1,0 +1,7 @@
+Encyclopedia 2.0.vshost 00:00:01
+Steam 00:00:01
+Idle 00:00:01
+Discord 00:00:03
+chrome 00:00:14
+explorer 00:00:03
+Everything 00:00:03
