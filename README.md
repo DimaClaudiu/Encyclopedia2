@@ -1,5 +1,5 @@
 # Encyclopedia 2.0
-Final highschool year database project.
+Windows Forms app integrading databases.
 
 #### - Project Status: [Completed]
 ## Project Objective
