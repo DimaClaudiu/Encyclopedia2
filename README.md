@@ -22,4 +22,4 @@ Split into categories, and entris, with app tracking support for time management
 If you want to compile and play with the code I recommend Visual Studio 2017 or above.
 
 ## Completion Date
-May 17, 2017
+2017, May 17
